@@ -1,0 +1,8 @@
+# Personal notes
+
+1. make simple mpv port
+2. make cli with clap
+
+
+.. UI
+

@@ -1,0 +1,9 @@
+[package]
+name = "audire"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15.3"
+fundsp = "0.18.2"
+termion = "4.0.2"
